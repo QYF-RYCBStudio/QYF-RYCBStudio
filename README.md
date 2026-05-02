@@ -3,3 +3,4 @@
 
 ## Our Official Website:
 _https://rycb.mxj.pub/_
+_https://www.rycb.tech_
